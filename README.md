@@ -65,5 +65,3 @@ HarvestSense is a computer-vision-based decision layer that sits **before** a fa
 | Sakthi S | Team member |
 
 ---
-
-*This document is a project overview for Hack2Ignite 2026 submission (Problem Statement AG-05). The aggregator integration described is a proposed interoperability pattern, not a confirmed partnership with any named platform.*
