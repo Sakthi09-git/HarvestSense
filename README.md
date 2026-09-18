@@ -3,7 +3,7 @@
 **AI Pre-Sale Decision Layer for Smallholder Farmers, Integrated with Existing Agri-Logistics Aggregators**
 
 Hack2Ignite 2026 — Problem Statement ID: **AG-05**
-Team: **SRISAK** (Jayasri B, Sakthi S)
+Team: **S-SQUARE** (Jayasri B, Sakthi S)
 Institution: Sri Eshwar College of Engineering, Coimbatore
 
 ---
